@@ -1,0 +1,1 @@
+# Arithmetic-and-geometric-sequence
