@@ -1,4 +1,4 @@
-# Arithmetic-and-geometric-sequence
+# Arithmetic-and-geometric-sequence-calculator
 
 The program calculates elements of arithmetic or geometric sequence. It follows an MVC architecture pattern.
 
